@@ -4,7 +4,7 @@
 
 ### 2. 로그인
 ![image](https://github.com/user-attachments/assets/263c10c9-d29a-4caf-ac06-7fc13ea8313a)
-1. 로그인을 하면 발급된 토큰이 보이게끔 했습니다.
+1. 로그인을 하면 토큰을 생성하여, 발급된 토큰이 보이게끔 했습니다.
 
 ### 3. 회원 조회
 ![image](https://github.com/user-attachments/assets/cab3268e-1ad9-4a9e-9d29-19193e2815d6)
