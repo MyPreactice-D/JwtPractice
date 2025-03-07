@@ -1,4 +1,9 @@
 package com.example.jwtpractice.user.dto;
 
-public class PasswordUpdateRequest {
+import lombok.Getter;
+
+@Getter
+public class PasswordUpdateRequestDto {
+    private String password;
+    private String newPassword;
 }
